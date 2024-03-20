@@ -1,0 +1,12 @@
+.GetAll
+{
+     background-color: antiquewhite;
+     width: 200px;
+     margin-right: 20px;
+}
+.row{
+    display: flex;
+}
+#errormeg,#errordeletemeg{
+    display: none;
+}
